@@ -1,0 +1,78 @@
+/* Aplica o fundo da página e centraliza o conteúdo */
+body {
+    background-color: #e0e7ff; /* Azul claro agradável */
+    font-family: Arial, sans-serif; /* Fonte limpa e fácil de ler */
+    margin: 0;
+    padding: 40px;
+    display: flex; /* Usado para centralizar o container */
+    justify-content: center; /* Alinha horizontalmente */
+    align-items: center; /* Alinha verticalmente */
+    min-height: 100vh; /* Altura mínima da tela inteira */
+  }
+  
+  /* Container principal do currículo */
+  .container {
+    background-color: white; /* Fundo branco do currículo */
+    max-width: 850px; /* Largura máxima */
+    width: 100%;
+    padding: 40px; /* Espaço interno */
+    border-radius: 12px; /* Bordas arredondadas */
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    position: relative; /* Para posicionar a foto */
+  }
+  
+  /* Foto de perfil posicionada no canto superior direito */
+  .foto {
+    position: absolute; /* Posiciona em relação ao container */
+    top: 40px;
+    right: 40px;
+  }
+  
+  .foto img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover; /* Preenche o quadrado cortando se necessário */
+    border-radius: 50%; /* Deixa a imagem redonda */
+    border: 3px solid #4f46e5; /* Borda azul */
+  }
+  
+  /* Cabeçalho do currículo (nome + contato) */
+  header h1 {
+    font-size: 28px;
+    color: #1f2937; /* Cor escura */
+    margin-bottom: 5px;
+  }
+  
+  header p {
+    color: #4b5563; /* Cinza médio */
+    font-size: 14px;
+    margin-top: 0;
+  }
+  
+  /* Títulos de cada seção */
+  section h2 {
+    color: #374151;
+    margin-top: 30px;
+    border-bottom: 2px solid #d1d5db;
+    padding-bottom: 5px;
+    font-size: 20px;
+  }
+  
+  /* Texto dentro das seções */
+  section p {
+    color: #374151;
+    font-size: 15px;
+    line-height: 1.6;
+  }
+  
+  /* Listas (formação, cursos, habilidades) */
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: #374151;
+    font-size: 15px;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
