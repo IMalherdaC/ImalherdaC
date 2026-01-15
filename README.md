@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/igor-malher/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:contato@igormalher.com.br">
+  <a href="mailto:seu-email@exemplo.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
   </a>
 
@@ -51,7 +51,7 @@ Com uma trajetória sólida de **6 anos na área administrativa hospitalar (UTI)
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
-<br /><br />
+<br />
 
 ---
 
