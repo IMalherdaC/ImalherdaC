@@ -57,8 +57,12 @@ Com uma trajetória sólida de **6 anos na área administrativa hospitalar (UTI)
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IMalherdaC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMalherdaC&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/IMalherdaC">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=IMalherdaC&show_icons=true&theme=tokyonight&hide_border=true" alt="Igor Malher Stats" />
+  </a>
+  <a href="https://github.com/IMalherdaC">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMalherdaC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
 
 <br />
