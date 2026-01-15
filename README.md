@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
    <a href="mailto:[imalherdac@outlook.com]">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[SEU EMAIL AQUI]" alt="Email">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[imalherdac@outlook.com]" alt="Email">
   </a>
 
 <br /><br />
@@ -58,8 +58,8 @@ Meu foco principal de estudos e projetos atuais:
 
 <div align="center">
   <a href="https://github.com/[IMalherdaC]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU USUARIO GITHUB AQUI]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU USUARIO GITHUB AQUI]&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[IMalherdaC]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[IMalherdaC]&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
