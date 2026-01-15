@@ -10,7 +10,8 @@
   <a href="https://www.linkedin.com/in/igor-malher/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:contato@igormalher.com.br"> <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+  <a href="mailto:contato@igormalher.com.br">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
   </a>
 
 <br /><br />
@@ -57,12 +58,8 @@ Com uma trajetória sólida de **6 anos na área administrativa hospitalar (UTI)
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/IMalherdaC">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=IMalherdaC&show_icons=true&theme=tokyonight&hide_border=true" alt="Igor Malher Stats" />
-  </a>
-  <a href="https://github.com/IMalherdaC">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMalherdaC&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=IMalherdaC&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMalherdaC&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <br />
