@@ -1,7 +1,7 @@
 <div align="center">
   
   <h1>Olá, eu sou o Igor Malher! 👋</h1>
-  <h3>Desenvolvedor Full Stack & Back-end em formação</h3>
+  <h3>Desenvolvedor Full Stack focadoe em Back-end em formação</h3>
 
   <p>
     <em>"Acredito na importância da educação e da inovação como motores de evolução."</em>
